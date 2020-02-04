@@ -13,6 +13,6 @@ SIG.
 ## Active Special Interest Groups
 
 * [sig-exec](./sig-exec)
-* [sig-ddl](./sig-ddl)
+* [sig-parser](./sig-parser)
 * [sig-copr (TiKV)](https://github.com/tikv/community/tree/master/sig/coprocessor)
 * [sig-engine (TiKV)](https://github.com/tikv/community/tree/master/sig/engine)
